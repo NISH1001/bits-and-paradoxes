@@ -1,5 +1,8 @@
 # articles
+
 All things I loved reading about
+
+---
 
 ## All Things Coding and Software Engineering
 
@@ -19,3 +22,16 @@ All things I loved reading about
 #### Docker
 1. [Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 
+---
+
+## Pale Blue Dot?
+1. [Naming The Universe](https://aeon.co/essays/how-gods-beat-astronomers-in-the-solar-system-name-game)
+
+---
+
+## Life - A Hodge of Love and Tragedy
+1. [ From first kiss to unfollowing – culture that sums up love in 2020](https://www.theguardian.com/culture/2020/feb/13/from-first-kiss-to-unfollowing-culture-that-sums-up-love-in-2020)
+---
+
+## History
+1. [History of Empty Places](https://www.recordnepal.com/perspective/the-history-of-empty-places/)
