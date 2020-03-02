@@ -30,9 +30,10 @@ All things I loved reading about
 1. [Requirements volatility is the core problem of software engineering](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/)
 
 2. [Why are we so bad at software engineering?](https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/)
-> Partly because it's partly non-deterministic.
+> Partly because it's obscured and non-deterministic.
 > "Non-deterministic" in a sense, a simple change can have unforeseen consequences and inherent bugs.
 > Also the goals keep on changing constantly.
+> Problems with scaling, keeping with temporal values and such.
 
 #### Unix Ultimate
 1. [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
@@ -50,7 +51,7 @@ All things I loved reading about
 
 ---
 
-## Life - A Hodge of Love and Tragedy
+## Life - A Hodgepodge of Love and Tragedy
 1. [ From first kiss to unfollowing – culture that sums up love in 2020](https://www.theguardian.com/culture/2020/feb/13/from-first-kiss-to-unfollowing-culture-that-sums-up-love-in-2020)
 ---
 
