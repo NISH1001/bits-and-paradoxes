@@ -19,6 +19,12 @@ All things I loved reading about
 
 4. [How To Write The Perfect Pull Request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
 
+5. [A journey to searching Have I Been Pwned database in 49μs (C++)](http://stryku.pl/poetry/okon.php#a-journey-to-searching-have-i-been-pwned-database-in-49-microseconds)
+
+> Searching using optimal algorithm and data structure. 
+> It's weird how in normal cases we don't even consider worst case scenario and just let the algorithm be. 
+> But data structures and search algorithms do matter in performance critical domains.
+
 #### Software Engineering Gores
 
 1. [Requirements volatility is the core problem of software engineering](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/)
