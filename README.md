@@ -52,7 +52,18 @@ All things I loved reading about
 ---
 
 ## Life - A Hodgepodge of Love and Tragedy
+
 1. [ From first kiss to unfollowing – culture that sums up love in 2020](https://www.theguardian.com/culture/2020/feb/13/from-first-kiss-to-unfollowing-culture-that-sums-up-love-in-2020)
+
+2. [Lean On](https://longreads.com/2019/02/05/lean-on/)
+> I could resonate on this particular topic on whole another level.  
+  
+> Heartfelt. Contemplating. Leaning on. 
+> We seem to lean on certain things, certain conenctions and attachments..in many ways we can only begin to realize about. 
+> Self-reliance is a must I agree. But, one cannot truly live in his/her own solitude, right? 
+> There's should be some companionship that creates compassion and emotions that blend into the perceived reality of oneself...
+> Lean on...
+
 ---
 
 ## History
