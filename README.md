@@ -64,6 +64,9 @@ All things I loved reading about
 > There's should be some companionship that creates compassion and emotions that blend into the perceived reality of oneself...
 > Lean on...
 
+3. [David Foster Wallace Disease](https://hazlitt.net/longreads/david-foster-wallace-disease)
+> It's good that David has influenced so much of people around...not in a "classification" manner like "good" or "bad"...but in a more artistic way that seems to resonate with people that are in depressed state...in a more subtle way that's not nonchalant....
+
 ---
 
 ## History
