@@ -25,6 +25,11 @@ All things I loved reading about
 > It's weird how in normal cases we don't even consider worst case scenario and just let the algorithm be. 
 > But data structures and search algorithms do matter in performance critical domains.
 
+6. [What's so hard about PDF text extraction?](https://www.filingdb.com/pdf-text-extraction)
+
+> This makes sense for me at the moment. 
+> Having been working as a computer vision engineer ~coughs~ (over-estimation of the post), PDFs are pain in the ass....
+
 #### Software Engineering Gores
 
 1. [Requirements volatility is the core problem of software engineering](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/)
