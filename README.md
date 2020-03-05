@@ -72,6 +72,13 @@ All things I loved reading about
 3. [David Foster Wallace Disease](https://hazlitt.net/longreads/david-foster-wallace-disease)
 > It's good that David has influenced so much of people around...not in a "classification" manner like "good" or "bad"...but in a more artistic way that seems to resonate with people that are in depressed state...in a more subtle way that's not nonchalant....
 
+4. [The Anxiety Algorithm](https://www.adamjuliangoldstein.com/blog/anxiety-algorithm/)
+> "I learned that courage was not the absence of fear, but the triumph over it." - Nelson Mandela  
+
+> Reading this write-up made so much sense not only on the startup/tech stack but on life itself. 
+> Anxieties are "ways" for imaginations, most of which are pretty on the dark side I guess.
+> Fear is a feature of anxiety that kept our ancestors safer, so all of us feel anxious sometimes.
+
 ---
 
 ## History
