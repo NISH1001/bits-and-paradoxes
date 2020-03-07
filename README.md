@@ -79,6 +79,12 @@ All things I loved reading about
 > Anxieties are "ways" for imaginations, most of which are pretty on the dark side I guess.
 > Fear is a feature of anxiety that kept our ancestors safer, so all of us feel anxious sometimes.
 
+5. [The Pleasures and Pains of Coffee](http://blissbat.net/balzac.html)  
+> Damn. I truly know this particular feeling. Drinking coffee feels like a hopeless situation of hope and tragedy...
+
+> "The state coffee puts one in when it is drunk on an empty stomach under these magisterial conditions produces a kind of animation that looks like anger: one's voice rises, one's gestures suggest unhealthy impatience: one wants everything to proceed with the speed of ideas; one becomes brusque, ill-tempered about nothing"
+
+
 ---
 
 ## History
