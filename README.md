@@ -84,6 +84,14 @@ All things I loved reading about
 
 > "The state coffee puts one in when it is drunk on an empty stomach under these magisterial conditions produces a kind of animation that looks like anger: one's voice rises, one's gestures suggest unhealthy impatience: one wants everything to proceed with the speed of ideas; one becomes brusque, ill-tempered about nothing"
 
+6. [Inside David Foster Wallace's Private Self-Help Library](https://www.theawl.com/2011/04/inside-david-foster-wallaces-private-self-help-library/)
+
+> "Humility — the acceptance that being human is good enough — is the embrace of ordinariness."  
+
+> The love his admirers bear this author has a peculiarly intimate and personal character. This is because Wallace gave voice to the inner workings of ordinary human beings in a manner so winning and so truthful and forgiving as to make him seem a friend.  
+
+> Wallace seemed always to be trying to erase the distance between himself and others in order to understand them better, and trying visibly to make himself understood — always asking questions, demanding to know more details. 
+
 
 ---
 
