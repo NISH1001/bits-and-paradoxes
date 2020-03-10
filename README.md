@@ -40,6 +40,13 @@ All things I loved reading about
 > Also the goals keep on changing constantly.
 > Problems with scaling, keeping with temporal values and such.
 
+3. [Please re-add original author to docs and license #1703](https://github.com/Guake/guake/issues/1703)
+> Hacker News Thread: https://news.ycombinator.com/item?id=22523814
+
+> This is an interesting issue in open-source. The original creator of **Guake** was not listed on the later-contributed-by-community continuation of the project. 
+
+> It also showcases the healthy discussion between the intellectuals.
+
 #### Unix Ultimate
 1. [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
 
