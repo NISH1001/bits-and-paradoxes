@@ -1,6 +1,7 @@
 # Bits and Paradoxes
 
 All things I loved consuming to reinforce my prior beliefs of the world around.
+
 ---
 
 ## All Things Coding and Software Engineering
