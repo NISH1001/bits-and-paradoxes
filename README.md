@@ -1,7 +1,6 @@
-# articles
+# Bits and Paradoxes
 
-All things I loved reading about
-
+All things I loved consuming to reinforce my prior beliefs of the world around.
 ---
 
 ## All Things Coding and Software Engineering
@@ -103,6 +102,8 @@ All things I loved reading about
 
 > This is a short and concise write-up by David. Like he has mentioned in the article: `In my pursuit, I’m guided by the famous words of Bruce Lee: "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.” `
 
+8. [Freeman Dyson - Why I don't like the PhD system](https://www.youtube.com/watch?v=DzC1IRYN_Ps)
+> For me it's personally relatable since I don't quite have long attention span to focus on one thing for a very long time.  
 
 ---
 
