@@ -47,6 +47,9 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 
 > It also showcases the healthy discussion between the intellectuals.
 
+4. [Data Engineering How To](https://github.com/adilkhash/Data-Engineering-HowTo)
+> List of relevant resources for data engineering.
+
 #### Unix Ultimate
 1. [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
 
