@@ -109,6 +109,9 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 8. [Freeman Dyson - Why I don't like the PhD system](https://www.youtube.com/watch?v=DzC1IRYN_Ps)
 > For me it's personally relatable since I don't quite have long attention span to focus on one thing for a very long time.  
 
+9. [Being basic as a virtue](https://nadiaeghbal.com/basic)
+> This hits hard and quite close to me. :)
+
 ---
 
 ## History
