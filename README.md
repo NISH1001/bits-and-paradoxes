@@ -123,3 +123,8 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 > For writer, it's more affine towards emotional aspect -- more articulated feelings.
 
 ---
+
+
+## Poetry
+1. ["Hir" Poem about trangsgendered youth](https://www.youtube.com/watch?v=IRLSgPQG0c4)
+> This gave me goosebumps.
