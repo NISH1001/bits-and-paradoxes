@@ -113,7 +113,7 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 > This hits hard and quite close to me. :)
 
 10. [My Friend Mister Rogers](https://www.theatlantic.com/magazine/archive/2019/12/what-would-mister-rogers-do/600772/)
-> I can't even imagine a person like Fred Rogers. He is a fascinating person. And this article gives a perspective from the writer, 
+> I can't even imagine a person like Fred Rogers. He was a fascinating person I guess. And this article gives a perspective from the writer, 
 a life-long friend of Rogers, who interviewed him and turned into a deeply emotional relationship.
 
 ---
