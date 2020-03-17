@@ -134,6 +134,9 @@ and so much I can't jolt down here.
 > But then when it grows and gets out of hand, that's when we realize it has already begun and we haven't still prepared ourselves. 
 > That's the truth I guess.
 
+## Music
+1. [How I recorded an album on my own, in my room](https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9)
+> I wish I could have same level of perseverance as that of the author. This is truly an inspiring write-up.
 
 ## History
 1. [History of Empty Places](https://www.recordnepal.com/perspective/the-history-of-empty-places/)
