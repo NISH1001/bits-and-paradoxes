@@ -30,6 +30,9 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 > This makes sense for me at the moment. 
 > Having been working as a computer vision engineer ~coughs~ (over-estimation of the post), PDFs are pain in the ass....
 
+7. [Text Processing In Shell](https://blog.balthazar-rouberol.com/text-processing-in-the-shell)
+> The shell can be one of the powerful tools you can use if you are to be comfortable with CLI.
+
 #### Software Engineering Gores
 
 1. [Requirements volatility is the core problem of software engineering](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/)
