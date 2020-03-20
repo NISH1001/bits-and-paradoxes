@@ -119,6 +119,8 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 > I can't even imagine a person like Fred Rogers. He was a fascinating person I guess. And this article gives a perspective from the writer, 
 a life-long friend of Rogers, who interviewed him and turned into a deeply emotional relationship.
 
+11. [Can you say...Hero?](https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/)
+
 ---
 
 ## Health
