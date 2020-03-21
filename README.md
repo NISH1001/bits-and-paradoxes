@@ -121,6 +121,8 @@ a life-long friend of Rogers, who interviewed him and turned into a deeply emoti
 
 11. [Can you say...Hero?](https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/)
 
+12. [Using Models to Stay Calm in Charged Situations](https://fs.blog/2020/03/models-charged-situations/)
+
 ---
 
 ## Health
