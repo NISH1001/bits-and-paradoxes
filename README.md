@@ -121,7 +121,6 @@ a life-long friend of Rogers, who interviewed him and turned into a deeply emoti
 
 11. [Can you say...Hero?](https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/)
 
-12. [Using Models to Stay Calm in Charged Situations](https://fs.blog/2020/03/models-charged-situations/)
 
 ---
 
@@ -159,3 +158,13 @@ and so much I can't jolt down here.
 ## Poetry
 1. ["Hir" Poem about trangsgendered youth](https://www.youtube.com/watch?v=IRLSgPQG0c4)
 > This gave me goosebumps.
+
+---
+
+## Learning and Thought Processes
+1. [Using Models to Stay Calm in Charged Situations](https://fs.blog/2020/03/models-charged-situations/)
+
+2. [Build Stuff](https://why.degree/motivation/)
+> Build stuff. Don’t just study stuff, build stuff!
+
+---
