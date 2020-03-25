@@ -121,6 +121,9 @@ a life-long friend of Rogers, who interviewed him and turned into a deeply emoti
 
 11. [Can you say...Hero?](https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/)
 
+12. [The Price of Discipline - David Perell](https://www.perell.com/blog/the-price-of-discipline)
+> "It's no accident, I think, that tennis uses the language of life. Advantage, service, fault, break, love, the basic elements of tennis are those of everyday existence, because every match is a life in miniature."
+
 
 ---
 
