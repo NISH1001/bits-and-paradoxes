@@ -124,6 +124,9 @@ a life-long friend of Rogers, who interviewed him and turned into a deeply emoti
 12. [The Price of Discipline - David Perell](https://www.perell.com/blog/the-price-of-discipline)
 > "It's no accident, I think, that tennis uses the language of life. Advantage, service, fault, break, love, the basic elements of tennis are those of everyday existence, because every match is a life in miniature."
 
+13. [The Top Idea in Your Mind](http://www.paulgraham.com/top.html)
+> "You can't directly control where your thoughts drift. If you're controlling them, they're not drifting. But you can control them indirectly, by controlling what situations you let yourself get into."
+
 
 ---
 
