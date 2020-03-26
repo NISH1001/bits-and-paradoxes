@@ -128,6 +128,9 @@ a life-long friend of Rogers, who interviewed him and turned into a deeply emoti
 > "You can't directly control where your thoughts drift. If you're controlling them, they're not drifting. But you can control them indirectly, by controlling what situations you let yourself get into."
 
 
+14. [Letter to myself in late 2008](https://dalton.substack.com/p/letter-to-myself-in-late-2008)
+
+
 ---
 
 ## Health
