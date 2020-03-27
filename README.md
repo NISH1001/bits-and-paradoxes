@@ -149,6 +149,9 @@ and so much I can't jolt down here.
 > But then when it grows and gets out of hand, that's when we realize it has already begun and we haven't still prepared ourselves. 
 > That's the truth I guess.
 
+2. [How we must respond to the COVID-19 pandemic | Bill Gates](https://www.youtube.com/watch?v=Xe8fIjxicoo)
+> Like his talk from 2015, Bill keeps on emphasizing how we should proceed for testing kits/tool that are cheaper, help private sectors and be more precationary.
+
 ## Music
 1. [How I recorded an album on my own, in my room](https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9)
 > I wish I could have same level of perseverance as that of the author. This is truly an inspiring write-up.
