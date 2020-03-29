@@ -61,11 +61,22 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 
 ---
 
-## Pale Blue Dot?
+## A Dot In A Dot?
 1. [Naming The Universe](https://aeon.co/essays/how-gods-beat-astronomers-in-the-solar-system-name-game)
 
 > History of conflicts of naming "heavenly"(as they say) bodies.
 > It's amazing how same results are obtained independently by independent observers without having any interaction with each other's existence.
+
+2. [Leonard Susskind: Quantum Mechanics, String Theory and Black Holes | Artificial Intelligence Podcast](https://www.youtube.com/watch?v=s78hvV3QLUE)
+> It's always fascinating to hear Susskind. Loved listening to this one.
+
+3. [WBH - The Great Battle of Fire and Light - The Power Games](https://waitbutwhy.com/2019/08/fire-light.html)
+> This is the part 1 of the series by WBH.  
+
+
+> In this particular part, it dives (in a very layman way like WBH does every time) into the **genes** as a nature's software, 
+and animals as a container/host for those genes.  
+> This makes so much sense once you've read [The Selfish Gene by Richard Dawkins](https://www.goodreads.com/review/show/2920622699). 
 
 ---
 
