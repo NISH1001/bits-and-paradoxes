@@ -67,11 +67,15 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 > History of conflicts of naming "heavenly"(as they say) bodies.
 > It's amazing how same results are obtained independently by independent observers without having any interaction with each other's existence.
 
-2. [Leonard Susskind: Quantum Mechanics, String Theory and Black Holes | Artificial Intelligence Podcast](https://www.youtube.com/watch?v=s78hvV3QLUE)
+2. [YouTube: Leonard Susskind: Quantum Mechanics, String Theory and Black Holes | Artificial Intelligence Podcast](https://www.youtube.com/watch?v=s78hvV3QLUE)
 > It's always fascinating to hear Susskind. Loved listening to this one.
 
-3. [WBH - The Great Battle of Fire and Light - The Power Games](https://waitbutwhy.com/2019/08/fire-light.html)
+3. [WBH: The Great Battle of Fire and Light - The Power Games](https://waitbutwhy.com/2019/08/fire-light.html)
 > This is the part 1 of the series by WBH.  
+
+4. [YouTube: How to Tell Matter From Antimatter | CP Violation & The Ozma Problem](https://www.youtube.com/watch?v=Elt0Gt9Cb6Q)
+
+> This video is about the Ozma problem of distinguishing the chirality (ie left-handedness or right-handedness) of matter using weak interaction processes like beta decay (for example in uranium), or neutral kaon/k-meson decay. This is wrapped up in the phenomenon of CP violation, by which charge and parity are both violated by certain weak interaction processes - this enables antimatter to be unambiguously distinguished from matter, and left handed chirality from right handed.
 
 
 > In this particular part, it dives (in a very layman way like WBH does every time) into the **genes** as a nature's software, 
@@ -179,7 +183,7 @@ and so much I can't jolt down here.
 
 
 ## Poetry
-1. ["Hir" Poem about trangsgendered youth](https://www.youtube.com/watch?v=IRLSgPQG0c4)
+1. [YouTube: "Hir" Poem about trangsgendered youth](https://www.youtube.com/watch?v=IRLSgPQG0c4)
 > This gave me goosebumps.
 
 ---
