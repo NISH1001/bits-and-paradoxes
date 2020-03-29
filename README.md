@@ -56,6 +56,9 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 #### Unix Ultimate
 1. [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
 
+2. [How is the Linux kernel tested?](https://embeddedbits.org/how-is-the-linux-kernel-tested/)
+> Interesting. Tests have their own set of planes in themselves.
+
 #### Docker
 1. [Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 
