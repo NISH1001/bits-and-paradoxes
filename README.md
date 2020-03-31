@@ -53,6 +53,19 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 4. [Data Engineering How To](https://github.com/adilkhash/Data-Engineering-HowTo)
 > List of relevant resources for data engineering.
 
+5. [When to assume neural networks can solve a problem](https://blog.cerebralab.com/When_to_assume_neural_networks_can_solve_a_problem)
+
+> [Almost certainty] If other ML models already solved the problem.
+
+
+> [Very high probability] If a similar problem has already been solved by an ML algorithm, and the differences between that and your problem don’t seem significant.
+
+
+> [High probability] If the inputs & outputs are small enough to be comparable in size to those of other working ML models AND if we know a human can solve the problem with little context besides the inputs and outputs.
+
+
+> [Reasonable probability] If the inputs & outputs are small enough to be comparable in size to those of other working ML models AND we have a high certainty about the deterministic nature of the problem (that is to say, about the inputs being sufficient to infer the outputs).
+
 #### Unix Ultimate
 1. [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
 
