@@ -66,6 +66,11 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 
 > [Reasonable probability] If the inputs & outputs are small enough to be comparable in size to those of other working ML models AND we have a high certainty about the deterministic nature of the problem (that is to say, about the inputs being sufficient to infer the outputs).
 
+6. [Cognitive Biases In Software Development](http://smyachenkov.com/posts/cognitive-biases-software-development/)
+> We seem to cling to patterns we are familiar with. That applies to software development too. Patterns in programming...
+
+
+
 #### Unix Ultimate
 1. [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
 
