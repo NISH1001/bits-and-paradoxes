@@ -166,6 +166,19 @@ a life-long friend of Rogers, who interviewed him and turned into a deeply emoti
 
 14. [Letter to myself in late 2008](https://dalton.substack.com/p/letter-to-myself-in-late-2008)
 
+15. [YouTube: The Strangest Secret in the World by Earl Nightingale](https://www.youtube.com/watch?v=UygnXqoKrC4)
+
+> "We become what we think about."
+
+> Earl Nightingale was an American radio speaker and author, dealing mostly with the subjects of human character development, motivation, and meaningful existence.
+
+> Earl Nightingale message is incredible here and we highly recommend listening to it and following some of the awesome traits Earl lays out in detail.
+
+> This is an inspiring speech by Nightingale. It's one of the best wisdom that anyone can get.
+
+
+16. [The Woman Who Lives 200,000 Years in the Past ](https://www.outsideonline.com/2411125/lynx-vilden-stone-age-life)
+> Truly amazing woman, Lynx!
 
 ---
 
