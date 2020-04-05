@@ -4,7 +4,7 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 
 ---
 
-## All Things Coding and Software Engineering
+## All Things Coding and Computer Engineering
 
 #### Coding
 1. [Change complex code](https://understandlegacycode.com/blog/a-process-to-do-safe-changes-in-a-complex-codebase/)
@@ -33,7 +33,7 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 7. [Text Processing In Shell](https://blog.balthazar-rouberol.com/text-processing-in-the-shell)
 > The shell can be one of the powerful tools you can use if you are to be comfortable with CLI.
 
-#### Software Engineering Gores
+#### Computer Engineering Gores
 
 1. [Requirements volatility is the core problem of software engineering](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/)
 
@@ -68,6 +68,11 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 
 6. [Cognitive Biases In Software Development](http://smyachenkov.com/posts/cognitive-biases-software-development/)
 > We seem to cling to patterns we are familiar with. That applies to software development too. Patterns in programming...
+
+7. [YouTube: Why build an entire computer on breadboards?](https://www.youtube.com/watch?v=fCbAafKLqC8)
+> I love how Ben interprets the underlying complex phenomena into simple and understandable manner. 
+> This specific video demonstrates the pros and cons of building an entire computer on a breadboard. 
+> At higher signal frequency, the noises kick in due to more inductance and capacitance on the board which in low frequency signal otherwise might not be observed.  
 
 
 
