@@ -235,4 +235,19 @@ and so much I can't jolt down here.
 2. [Build Stuff](https://why.degree/motivation/)
 > Build stuff. Don’t just study stuff, build stuff!
 
+3. [Ask HN: What do you use to keep track of bookmarks/notes/snippets?](https://news.ycombinator.com/item?id=22778123)
+> Few things I have been experimenting (using) on:  
+
+> (a) [pocket](getpocket.com/): My go-to platform for saving articles to be read later.  
+
+> (b) [evernote](evernote.com/): I mostly dump my broken thoughts here.  
+
+> (c) [zotero](https://github.com/zotero/zotero): Currenly experimenting on this. Seems promising.  
+
+> (d) [Meta: bits-and-paradoxes](https://github.com/NISH1001/bits-and-paradoxes): Compiling some contents I have liked here.  
+
+> (e) [Notion](https://www.notion.so/): People say it's very good. I haven't got my hands dirty with this.  
+
+> (f) [Memex](https://github.com/WorldBrain/Memex): I had been using this on-off. But I ditched it since it was having a toll on the CPU in my firefox browser.  
+
 ---
