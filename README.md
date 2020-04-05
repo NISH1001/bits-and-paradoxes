@@ -103,6 +103,12 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 and animals as a container/host for those genes.  
 > This makes so much sense once you've read [The Selfish Gene by Richard Dawkins](https://www.goodreads.com/review/show/2920622699). 
 
+5. [Three Questions that Keep Me Up at Night](https://blog.evjang.com/2020/04/three-questions-that-keep-me-up-at-night.html)
+> I think one should have few questions that keep them up at night.  
+> First, it makes you aware of your own "self" and the universe.  
+> Second, it makes you go to the places that you might not otherwise. 
+> A rabbit-hole of information you will get to consume and feel more anxious!
+
 ---
 
 ## Life - A Hodgepodge of Love and Tragedy
@@ -166,7 +172,8 @@ a life-long friend of Rogers, who interviewed him and turned into a deeply emoti
 
 14. [Letter to myself in late 2008](https://dalton.substack.com/p/letter-to-myself-in-late-2008)
 
-15. [YouTube: The Strangest Secret in the World by Earl Nightingale](https://www.youtube.com/watch?v=UygnXqoKrC4)
+15. [YouTube: The Strangest Secret in the World by Earl Nightingale](https://www.youtube.com/watch?v=UygnXqoKrC4)  
+15. [Text Version](https://livesensical.com/podcast/change-your-life/strangest-secret/)
 
 > "We become what we think about."
 
