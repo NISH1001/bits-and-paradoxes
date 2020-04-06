@@ -114,6 +114,11 @@ and animals as a container/host for those genes.
 > Second, it makes you go to the places that you might not otherwise. 
 > A rabbit-hole of information you will get to consume and feel more anxious!
 
+6. [YouTube: Roger Penrose: Physics of Consciousness and the Infinite Universe | AI Podcast #85 with Lex Fridman](https://www.youtube.com/watch?v=orMtwOz6Db0)
+> This has been one of the most relaxed and insightful conversations in the series.  
+> I love how penrose is humble, and articulated even at the age of 90 years.  
+> The conversation jumps from philosophy of time, space, conciousness, learning and much.
+
 ---
 
 ## Life - A Hodgepodge of Love and Tragedy
