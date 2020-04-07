@@ -119,6 +119,12 @@ and animals as a container/host for those genes.
 > I love how penrose is humble, and articulated even at the age of 90 years.  
 > The conversation jumps from philosophy of time, space, conciousness, learning and much.
 
+7. [YouTube: Ann Druyan: Cosmos, Carl Sagan, Voyager, and the Beauty of Science | AI Podcast #78 with Lex Fridman](https://www.youtube.com/watch?v=7jFdxd1qX2g)
+> This is an exciting conversation, partly because Ann and Carl were couples and that their relationship was a cosmic phenomenon.  
+> The anecdotes Ann presented about their life, the power of science, the making of the **Cosmos** series and such were insightful.  
+> I'd say, this was a great conversation to listen to without much technical details in the process.  
+> This can be seen through Ann's enthusiasm for going into topic much deeper philosophically.
+
 ---
 
 ## Life - A Hodgepodge of Love and Tragedy
