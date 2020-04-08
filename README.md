@@ -303,4 +303,6 @@ and so much I can't jolt down here.
 
 > (f) [Memex](https://github.com/WorldBrain/Memex): I had been using this on-off. But I ditched it since it was having a toll on the CPU in my firefox browser.  
 
+4. [Roam: Why I Love It and How I Use It](https://www.nateliason.com/blog/roam)
+
 ---
