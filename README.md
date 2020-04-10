@@ -82,6 +82,10 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 2. [How is the Linux kernel tested?](https://embeddedbits.org/how-is-the-linux-kernel-tested/)
 > Interesting. Tests have their own set of planes in themselves.
 
+3. [pydeps](https://github.com/thebjorn/pydeps)
+> I feel this is a great tool. Generating dependency graph has always been a bummer for me since I don't use any type of IDE.  
+> pydeps generates the graph at module levels. It's kinda good to see it.
+
 #### Docker
 1. [Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 
