@@ -74,6 +74,14 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 > This specific video demonstrates the pros and cons of building an entire computer on a breadboard. 
 > At higher signal frequency, the noises kick in due to more inductance and capacitance on the board which in low frequency signal otherwise might not be observed.  
 
+8. [Take-home vs whiteboard coding: The problem is bad interviews](https://andrewrondeau.com/blog/2020/04/take-home-vs-whiteboard-coding-the-problem-is-bad-interviews)
+> "But, a company can send out its take-home interview question indiscriminately and waste candidates' time. (This is why I walk away from time-consuming take-homes, or take-homes that require an alphabet soup of technologies.)"  
+
+> "It's much harder to tell when a take-home question is bad. Some candidates might want to impress you and spend an unreasonable time on the question. Other candidates might ghost. (Ghosting means the candidate just stops responding to emails and phone calls.) The feedback loop just isn't there."  
+
+> "As a candidate, when I get a bad whiteboarding question, it's easy for me to just muddle through it. Depending on circumstances, I'll either decline the job or discuss the odd question with someone else in the process. But, when I get a bad take-home question, I'm stuck between either ghosting, (not responding at all,) or providing feedback. I've done both, and I'm not sure which is a better approach. The one case I gave feedback, the hiring manager got defensive, which confirmed my decision to walk away."  
+
+
 
 
 #### Unix Ultimate
