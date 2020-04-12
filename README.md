@@ -215,6 +215,9 @@ a life-long friend of Rogers, who interviewed him and turned into a deeply emoti
 16. [The Woman Who Lives 200,000 Years in the Past ](https://www.outsideonline.com/2411125/lynx-vilden-stone-age-life)
 > Truly amazing woman, Lynx!
 
+17. [A Feminist Critique of Murakami Novels, With Murakami Himself](https://lithub.com/a-feminist-critique-of-murakami-novels-with-murakami-himself/)
+> "It's always a pleasure to get a peek into Murakami's mind. What a mindful converstaion between the two people here... "
+
 ---
 
 ## Health
