@@ -320,4 +320,6 @@ and so much I can't jolt down here.
 
 4. [Roam: Why I Love It and How I Use It](https://www.nateliason.com/blog/roam)
 
+5. [The first two years of my PhD](https://rachitnigam.com/post/first-two-years/)
+
 ---
