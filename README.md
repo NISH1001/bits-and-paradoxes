@@ -218,6 +218,15 @@ a life-long friend of Rogers, who interviewed him and turned into a deeply emoti
 17. [A Feminist Critique of Murakami Novels, With Murakami Himself](https://lithub.com/a-feminist-critique-of-murakami-novels-with-murakami-himself/)
 > "It's always a pleasure to get a peek into Murakami's mind. What a mindful converstaion between the two people here... "
 
+18. [The Portal Episode 01 - Eric Weinstein](https://www.youtube.com/watch?v=nM9f0W2KD5s)
+
+> This has been in my to-listen list for a long time now since I know (vaguely) who Eirc was. 
+> Finally, I listened it with attention to what Eric and Peter Thiel had to contribute. 
+> It was like two intellectuals, although separated by personal philosophy and dogma, were in this dance of thought processes 
+that synchronized with each other. 
+> Both, having respect for each other, were totally true intellectuals. 
+> "Peter and Eric discuss the link between growth and violence and the need to rejoin the quest for a more energizing future for all levels of society."
+ 
 ---
 
 ## Health
