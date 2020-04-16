@@ -137,6 +137,9 @@ and animals as a container/host for those genes.
 > I'd say, this was a great conversation to listen to without much technical details in the process.  
 > This can be seen through Ann's enthusiasm for going into topic much deeper philosophically.
 
+8. [Life is Made of Unfair Coin Flips](https://alexdanco.com/2020/04/09/life-is-made-of-unfair-coin-flips/)
+> It's always fascinating to read about entropy from another perspective...
+
 ---
 
 ## Life - A Hodgepodge of Love and Tragedy
