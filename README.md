@@ -334,4 +334,6 @@ and so much I can't jolt down here.
 
 5. [The first two years of my PhD](https://rachitnigam.com/post/first-two-years/)
 
+6. [How to use Roam Research: a tool for metacognition](https://nesslabs.com/roam-research)
+
 ---
