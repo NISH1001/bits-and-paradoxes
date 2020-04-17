@@ -336,4 +336,7 @@ and so much I can't jolt down here.
 
 6. [How to use Roam Research: a tool for metacognition](https://nesslabs.com/roam-research)
 
+7. [How do you remember all of your tags? How do you make sure each note is tagged properly?](https://www.reddit.com/r/RoamResearch/comments/eqpio9/how_do_you_remember_all_of_your_tags_how_do_you/)
+
+
 ---
