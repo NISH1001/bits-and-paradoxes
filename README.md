@@ -140,6 +140,8 @@ and animals as a container/host for those genes.
 8. [Life is Made of Unfair Coin Flips](https://alexdanco.com/2020/04/09/life-is-made-of-unfair-coin-flips/)
 > It's always fascinating to read about entropy from another perspective...
 
+9. [Antifragility](https://alexdanco.com/2020/03/12/antifragility/)
+
 ---
 
 ## Life - A Hodgepodge of Love and Tragedy
@@ -229,6 +231,9 @@ a life-long friend of Rogers, who interviewed him and turned into a deeply emoti
 that synchronized with each other. 
 > Both, having respect for each other, were totally true intellectuals. 
 > "Peter and Eric discuss the link between growth and violence and the need to rejoin the quest for a more energizing future for all levels of society."
+
+19. [Why Is Joe Rogan So Popular?](https://www.theatlantic.com/entertainment/archive/2019/08/my-joe-rogan-experience/594802/)
+> This had been on my to-read for  so many months because I wanted to experience the podcast. Since I've started listening to conversations, I feel I barely know who Joe is. I had assumed him to be someone groking money and popularity. Boy... I was damn wrong. This man is his own Wikipedia... intellectual...a different kind. I'm glad that I've started to listen to his podcast...
  
 ---
 
@@ -337,6 +342,8 @@ and so much I can't jolt down here.
 6. [How to use Roam Research: a tool for metacognition](https://nesslabs.com/roam-research)
 
 7. [How do you remember all of your tags? How do you make sure each note is tagged properly?](https://www.reddit.com/r/RoamResearch/comments/eqpio9/how_do_you_remember_all_of_your_tags_how_do_you/)
+
+8. [How I Build Learning Projects — Part I](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 
 
 ---
