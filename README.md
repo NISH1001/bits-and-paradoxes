@@ -234,6 +234,9 @@ that synchronized with each other.
 
 19. [Why Is Joe Rogan So Popular?](https://www.theatlantic.com/entertainment/archive/2019/08/my-joe-rogan-experience/594802/)
 > This had been on my to-read for  so many months because I wanted to experience the podcast. Since I've started listening to conversations, I feel I barely know who Joe is. I had assumed him to be someone groking money and popularity. Boy... I was damn wrong. This man is his own Wikipedia... intellectual...a different kind. I'm glad that I've started to listen to his podcast...
+
+20. [What I learned from 100 days of rejection | Jia Jiang](https://www.youtube.com/watch?v=-vZXgApsPCQ)
+> Reject teaches us valuable things, about doubts we have and dares us to ask the "why" question.
  
 ---
 
