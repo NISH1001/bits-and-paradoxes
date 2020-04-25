@@ -98,7 +98,7 @@ All things I loved consuming to reinforce my prior beliefs of the world around.
 1. [Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 
 ---
----
+
 ## A Dot In A Dot?
 1. [Naming The Universe](https://aeon.co/essays/how-gods-beat-astronomers-in-the-solar-system-name-game)
 
@@ -143,7 +143,7 @@ and animals as a container/host for those genes.
 9. [Antifragility](https://alexdanco.com/2020/03/12/antifragility/)
 
 ---
----
+
 ## Life - A Hodgepodge of Love and Tragedy
 
 1. [ From first kiss to unfollowing – culture that sums up love in 2020](https://www.theguardian.com/culture/2020/feb/13/from-first-kiss-to-unfollowing-culture-that-sums-up-love-in-2020)
@@ -239,7 +239,7 @@ that synchronized with each other.
 > Reject teaches us valuable things, about doubts we have and dares us to ask the "why" question.
  
 ---
----
+
 ## Health
 1. [The Next Outbreak? We're not ready](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready)
 > Bill Gates is pretty thoughtful and mindful. He is an intellect who (from my perspective) tries to see things from wider perspective through his knowledge and mental models.  
@@ -259,8 +259,6 @@ and so much I can't jolt down here.
 2. [How we must respond to the COVID-19 pandemic | Bill Gates](https://www.youtube.com/watch?v=Xe8fIjxicoo)
 > Like his talk from 2015, Bill keeps on emphasizing how we should proceed for testing kits/tool that are cheaper, help private sectors and be more precationary.
 
----
----
 ## Music
 1. [How I recorded an album on my own, in my room](https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9)
 > I wish I could have same level of perseverance as that of the author. This is truly an inspiring write-up.
@@ -299,8 +297,6 @@ and so much I can't jolt down here.
 
 > I think it's beautiful and should be felt to (not just listened).
 
----
----
 ## History
 1. [History of Empty Places](https://www.recordnepal.com/perspective/the-history-of-empty-places/)
 
@@ -310,7 +306,8 @@ and so much I can't jolt down here.
 > For writer, it's more affine towards emotional aspect -- more articulated feelings.
 
 ---
----
+
+
 ## Poetry
 1. [YouTube: "Hir" Poem about trangsgendered youth](https://www.youtube.com/watch?v=IRLSgPQG0c4)
 > This gave me goosebumps.
@@ -320,7 +317,6 @@ and so much I can't jolt down here.
 
 ---
 
----
 ## Learning and Thought Processes
 1. [Using Models to Stay Calm in Charged Situations](https://fs.blog/2020/03/models-charged-situations/)
 
