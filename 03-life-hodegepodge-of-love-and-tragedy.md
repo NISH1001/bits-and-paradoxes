@@ -92,4 +92,8 @@ that synchronized with each other.
 20. [What I learned from 100 days of rejection | Jia Jiang](https://www.youtube.com/watch?v=-vZXgApsPCQ)
 > Reject teaches us valuable things, about doubts we have and dares us to ask the "why" question.
  
+21. [Remembering Freeman Dyson](https://www.edge.org/conversation/freeman_dyson-remembering-freeman-dyson)
+> It was such a good experience reading about Dyson from the people around whom he influenced...
+
+
 ---

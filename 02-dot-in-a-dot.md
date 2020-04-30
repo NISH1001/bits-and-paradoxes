@@ -41,4 +41,10 @@ and animals as a container/host for those genes.
 
 9. [Antifragility](https://alexdanco.com/2020/03/12/antifragility/)
 
+10. [At the limits of thought ](https://aeon.co/essays/will-brains-or-algorithms-rule-the-kingdom-of-science)
+
+> "Science today stands at a crossroads: will its progress be driven by human minds or by the machines that we’ve created?"  
+
+> "Understanding is the means by which we overcome a world of paradox and illusion by opening up the black box of knowledge to modification."
+
 ---

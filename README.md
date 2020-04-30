@@ -142,6 +142,12 @@ and animals as a container/host for those genes.
 
 9. [Antifragility](https://alexdanco.com/2020/03/12/antifragility/)
 
+10. [At the limits of thought ](https://aeon.co/essays/will-brains-or-algorithms-rule-the-kingdom-of-science)
+
+> "Science today stands at a crossroads: will its progress be driven by human minds or by the machines that we’ve created?"  
+
+> "Understanding is the means by which we overcome a world of paradox and illusion by opening up the black box of knowledge to modification."
+
 ---
 ---
 ## Life - A Hodgepodge of Love and Tragedy
@@ -238,6 +244,10 @@ that synchronized with each other.
 20. [What I learned from 100 days of rejection | Jia Jiang](https://www.youtube.com/watch?v=-vZXgApsPCQ)
 > Reject teaches us valuable things, about doubts we have and dares us to ask the "why" question.
  
+21. [Remembering Freeman Dyson](https://www.edge.org/conversation/freeman_dyson-remembering-freeman-dyson)
+> It was such a good experience reading about Dyson from the people around whom he influenced...
+
+
 ---
 ---
 ## Health
