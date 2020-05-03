@@ -309,6 +309,15 @@ and so much I can't jolt down here.
 
 > I think it's beautiful and should be felt to (not just listened).
 
+
+3. [Why Do We Even Listen to New Music?](https://pitchfork.com/features/article/listen-to-music/)
+
+> When it comes to hearing music, a network of nerves in the auditory cortex called the corticofugal network helps catalog the different patterns of music.
+
+> When we hear something that hasn’t already been mapped onto the brain, the corticofugal network goes a bit haywire, and our brain releases too much dopamine as a response. When there is no anchor or no pattern on which to map, music registers as unpleasant. “If the dopamine neurons can’t correlate their firing with outside events, the brain is unable to make cogent associations.” The way the corticofugal system learns new patterns limits our experiences by making everything we already know far more pleasurable than everything we don’t.
+
+> It’s that our brains actually fight against the unfamiliarity of life. We are built to abhor the uncertainty of newness. The choice to listen to new music prioritizes, if for one listen only, the artist over you.
+
 ---
 ---
 ## History
