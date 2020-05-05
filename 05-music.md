@@ -45,4 +45,7 @@
 
 > It’s that our brains actually fight against the unfamiliarity of life. We are built to abhor the uncertainty of newness. The choice to listen to new music prioritizes, if for one listen only, the artist over you.
 
+4. [When Music is Your First Language](https://lithub.com/when-music-is-your-first-language/)
+> Philip Kennicott is the chief Art and Architecture Critic of The Washington Post. Philip reflects some of his early experiences with an introduction to music and how his teachers have influenced his perspective on music.
+
 ---
