@@ -29,5 +29,6 @@
 
 8. [How I Build Learning Projects — Part I](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 
+9. [How Notion Uses Notion ](https://www.notion.so/How-Notion-Uses-Notion-616f41d2f5124f3185cf1c36d267c07e)
 
 ---

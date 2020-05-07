@@ -269,6 +269,11 @@ and so much I can't jolt down here.
 2. [How we must respond to the COVID-19 pandemic | Bill Gates](https://www.youtube.com/watch?v=Xe8fIjxicoo)
 > Like his talk from 2015, Bill keeps on emphasizing how we should proceed for testing kits/tool that are cheaper, help private sectors and be more precationary.
 
+3. [The world’s biggest problems and why they’re not what first comes to mind](https://80000hours.org/career-guide/world-problems/)
+> What are the world’s biggest and most urgent problems?  
+> The most urgent problems are those where people can have the greatest impact by working on them.  
+> The more neglected and solvable, the further extra effort will go.
+
 ---
 ---
 ## Music
@@ -374,5 +379,6 @@ and so much I can't jolt down here.
 
 8. [How I Build Learning Projects — Part I](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 
+9. [How Notion Uses Notion ](https://www.notion.so/How-Notion-Uses-Notion-616f41d2f5124f3185cf1c36d267c07e)
 
 ---
