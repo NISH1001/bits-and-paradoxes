@@ -148,6 +148,9 @@ and animals as a container/host for those genes.
 
 > "Understanding is the means by which we overcome a world of paradox and illusion by opening up the black box of knowledge to modification."
 
+11. [Physicists Criticize Stephen Wolfram’s ‘Theory of Everything’](https://www.scientificamerican.com/article/physicists-criticize-stephen-wolframs-theory-of-everything/)
+> Stephen has come up with his own computational view of universe. However, he is getting backfired.
+
 ---
 ---
 ## Life - A Hodgepodge of Love and Tragedy
