@@ -277,6 +277,8 @@ and so much I can't jolt down here.
 > The most urgent problems are those where people can have the greatest impact by working on them.  
 > The more neglected and solvable, the further extra effort will go.
 
+4. [The Most Important (and Literary?) Meal of the Day](https://www.nytimes.com/2020/05/06/books/breakfast-in-literature.html)
+
 ---
 ---
 ## Music
@@ -339,6 +341,9 @@ and so much I can't jolt down here.
 > For outside observers, it's a matter of great "research" topic about culture and evolution of the place.
 > For writer, it's more affine towards emotional aspect -- more articulated feelings.
 
+2. [The Commuting Principle That Shaped Urban History](https://www.citylab.com/transportation/2019/08/commute-time-city-size-transportation-urban-planning-history/597055/)
+> The modes of transportation have shaped how cities grew and thus how culture, economy, civilization evolved...
+
 ---
 ---
 ## Poetry
@@ -351,7 +356,8 @@ and so much I can't jolt down here.
 ---
 
 ---
-## Learning and Thought Processes
+## Learning, Thought Processes and Habits
+
 1. [Using Models to Stay Calm in Charged Situations](https://fs.blog/2020/03/models-charged-situations/)
 
 2. [Build Stuff](https://why.degree/motivation/)
@@ -383,5 +389,11 @@ and so much I can't jolt down here.
 8. [How I Build Learning Projects — Part I](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 
 9. [How Notion Uses Notion ](https://www.notion.so/How-Notion-Uses-Notion-616f41d2f5124f3185cf1c36d267c07e)
+
+10. [How to Stick With Good Habits Even When Your Willpower is Gone](https://jamesclear.com/choice-architecture)
+> "Your habits change depending on the room you are in and the cues in front of you."
+
+11. [Write Like You Talk](http://www.paulgraham.com/talk.html)
+> "Here's a simple trick for getting more people to read what you write: write in spoken language."
 
 ---

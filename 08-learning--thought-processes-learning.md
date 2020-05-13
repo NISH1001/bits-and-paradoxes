@@ -1,4 +1,5 @@
-## Learning and Thought Processes
+## Learning, Thought Processes and Habits
+
 1. [Using Models to Stay Calm in Charged Situations](https://fs.blog/2020/03/models-charged-situations/)
 
 2. [Build Stuff](https://why.degree/motivation/)
@@ -30,5 +31,11 @@
 8. [How I Build Learning Projects — Part I](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 
 9. [How Notion Uses Notion ](https://www.notion.so/How-Notion-Uses-Notion-616f41d2f5124f3185cf1c36d267c07e)
+
+10. [How to Stick With Good Habits Even When Your Willpower is Gone](https://jamesclear.com/choice-architecture)
+> "Your habits change depending on the room you are in and the cues in front of you."
+
+11. [Write Like You Talk](http://www.paulgraham.com/talk.html)
+> "Here's a simple trick for getting more people to read what you write: write in spoken language."
 
 ---

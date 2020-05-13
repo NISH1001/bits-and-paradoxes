@@ -22,4 +22,6 @@ and so much I can't jolt down here.
 > The most urgent problems are those where people can have the greatest impact by working on them.  
 > The more neglected and solvable, the further extra effort will go.
 
+4. [The Most Important (and Literary?) Meal of the Day](https://www.nytimes.com/2020/05/06/books/breakfast-in-literature.html)
+
 ---
