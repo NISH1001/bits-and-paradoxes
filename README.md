@@ -396,4 +396,7 @@ and so much I can't jolt down here.
 11. [Write Like You Talk](http://www.paulgraham.com/talk.html)
 > "Here's a simple trick for getting more people to read what you write: write in spoken language."
 
+12. [Nat Eliason is Living in The Matrix](https://superorganizers.substack.com/p/nat-eliason-is-living-in-the-matrix)
+> Everyday, I am improving my usage on roam...and it's getting more and more like "organized chaos". I guess that's okay. :)
+
 ---
