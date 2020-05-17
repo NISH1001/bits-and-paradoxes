@@ -50,4 +50,12 @@ and animals as a container/host for those genes.
 11. [Physicists Criticize Stephen Wolfram’s ‘Theory of Everything’](https://www.scientificamerican.com/article/physicists-criticize-stephen-wolframs-theory-of-everything/)
 > Stephen has come up with his own computational view of universe. However, he is getting backfired.
 
+12. [50 Ideas That Changed My Life](https://www.perell.com/blog/50-ideas-that-changed-my-life)
+
+- "The structure of our social media feeds blinds us to history, as it causes us to live in an endless cycle of ephemeral content consumption. The structure of the Internet pulls people away from age-old wisdom..."
+
+- "The world always makes sense. But it can be confusing. When it is, your model of the world is wrong. So, things that don’t make sense are a learning opportunity. Big opportunities won’t make sense until it’s too late to profit from them."
+
+- **Hormesis:** A low dose of something can have the opposite effect of a high dose. A little bit of stress wakes you up, but a lot of stress is bad for you. Lifting weights for 30 minutes per day is good for you, but lifting weights for 6 hours per day will destroy your muscles. Stress yourself, but not too much.
+
 ---

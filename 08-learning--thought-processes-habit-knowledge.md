@@ -1,4 +1,4 @@
-## Learning, Thought Processes and Habits
+## Learning, Thought Processes, Habits, Knowledge
 
 1. [Using Models to Stay Calm in Charged Situations](https://fs.blog/2020/03/models-charged-situations/)
 
@@ -40,5 +40,8 @@
 
 12. [Nat Eliason is Living in The Matrix](https://superorganizers.substack.com/p/nat-eliason-is-living-in-the-matrix)
 > Everyday, I am improving my usage on roam...and it's getting more and more like "organized chaos". I guess that's okay. :)
+
+13. [Our Bookless Future](https://claremontreviewofbooks.com/our-bookless-future/)
+> "Literacy develops through practice—through labor that compels the development of revised brain functions. The more you read, the more your brain adapts. It is a “plastic” organ"
 
 ---
