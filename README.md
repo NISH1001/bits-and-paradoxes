@@ -258,6 +258,11 @@ that synchronized with each other.
 21. [Remembering Freeman Dyson](https://www.edge.org/conversation/freeman_dyson-remembering-freeman-dyson)
 > It was such a good experience reading about Dyson from the people around whom he influenced...
 
+22. [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+
+23. [Conversation with Parijat from 1963](https://www.recordnepal.com/art-letter/i-dont-have-faith-in-this-thing-called-god-conversation-with-parijat-from-1963/)
+
+> I am not sure if I can genuinely talk about this. I haven't had any chance to get into the mind of Parijat, how she viewed the world, and what even life and love meant to her? Is life even meaningful? I have many questions that often bombard my Mind-Cave.
 
 ---
 ---
@@ -342,6 +347,8 @@ and so much I can't jolt down here.
 ---
 ---
 ## History
+---
+
 1. [History of Empty Places](https://www.recordnepal.com/perspective/the-history-of-empty-places/)
 
 > Places tolerate us.
@@ -351,6 +358,9 @@ and so much I can't jolt down here.
 
 2. [The Commuting Principle That Shaped Urban History](https://www.citylab.com/transportation/2019/08/commute-time-city-size-transportation-urban-planning-history/597055/)
 > The modes of transportation have shaped how cities grew and thus how culture, economy, civilization evolved...
+
+3. [The Letter Between Stanley Kubrick & Arthur C. Clarke That Sparked the Greatest SciFi Film Ever Made (1964)](http://www.openculture.com/2015/05/the-letter-between-stanley-kubrick-arthur-c-clarke-that-sparked-the-greatest-scifi-film-ever-made-1964.html)
+> I've been watching documentaries about Kubrick... It's fascinating to see how he approached storytelling...
 
 ---
 ---
@@ -411,3 +421,13 @@ and so much I can't jolt down here.
 > "Literacy develops through practice—through labor that compels the development of revised brain functions. The more you read, the more your brain adapts. It is a “plastic” organ"
 
 ---
+---
+# Story
+
+---
+
+1. [The Rememberer](https://www.missourireview.com/article/the-rememberer/)
+> Beautiful. :)
+
+
+

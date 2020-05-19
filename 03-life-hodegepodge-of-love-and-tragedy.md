@@ -95,5 +95,10 @@ that synchronized with each other.
 21. [Remembering Freeman Dyson](https://www.edge.org/conversation/freeman_dyson-remembering-freeman-dyson)
 > It was such a good experience reading about Dyson from the people around whom he influenced...
 
+22. [The days are long but the decades are short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+
+23. [Conversation with Parijat from 1963](https://www.recordnepal.com/art-letter/i-dont-have-faith-in-this-thing-called-god-conversation-with-parijat-from-1963/)
+
+> I am not sure if I can genuinely talk about this. I haven't had any chance to get into the mind of Parijat, how she viewed the world, and what even life and love meant to her? Is life even meaningful? I have many questions that often bombard my Mind-Cave.
 
 ---
