@@ -58,4 +58,6 @@ and animals as a container/host for those genes.
 
 - **Hormesis:** A low dose of something can have the opposite effect of a high dose. A little bit of stress wakes you up, but a lot of stress is bad for you. Lifting weights for 30 minutes per day is good for you, but lifting weights for 6 hours per day will destroy your muscles. Stress yourself, but not too much.
 
+13. [Climbing the wrong hill](https://cdixon.org/2009/09/19/climbing-the-wrong-hill)
+
 ---

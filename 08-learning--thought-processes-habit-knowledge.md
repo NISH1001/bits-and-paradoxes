@@ -44,4 +44,6 @@
 13. [Our Bookless Future](https://claremontreviewofbooks.com/our-bookless-future/)
 > "Literacy develops through practice—through labor that compels the development of revised brain functions. The more you read, the more your brain adapts. It is a “plastic” organ"
 
+14. [Building a Second Brain: An Overview](https://fortelabs.co/blog/basboverview/)
+
 ---

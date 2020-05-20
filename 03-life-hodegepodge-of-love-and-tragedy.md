@@ -101,4 +101,7 @@ that synchronized with each other.
 
 > I am not sure if I can genuinely talk about this. I haven't had any chance to get into the mind of Parijat, how she viewed the world, and what even life and love meant to her? Is life even meaningful? I have many questions that often bombard my Mind-Cave.
 
+24. [The Day I Found Out My Life Was Hanging by a Thread](https://www.wired.com/story/the-day-i-found-out-my-life-was-hanging-by-a-thread/)
+> This is heart-touching. I've no words. I hope someday medical miracle will be seen where cancer is cured.
+
 ---

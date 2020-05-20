@@ -159,6 +159,8 @@ and animals as a container/host for those genes.
 
 - **Hormesis:** A low dose of something can have the opposite effect of a high dose. A little bit of stress wakes you up, but a lot of stress is bad for you. Lifting weights for 30 minutes per day is good for you, but lifting weights for 6 hours per day will destroy your muscles. Stress yourself, but not too much.
 
+13. [Climbing the wrong hill](https://cdixon.org/2009/09/19/climbing-the-wrong-hill)
+
 ---
 ---
 ## Life - A Hodgepodge of Love and Tragedy
@@ -263,6 +265,9 @@ that synchronized with each other.
 23. [Conversation with Parijat from 1963](https://www.recordnepal.com/art-letter/i-dont-have-faith-in-this-thing-called-god-conversation-with-parijat-from-1963/)
 
 > I am not sure if I can genuinely talk about this. I haven't had any chance to get into the mind of Parijat, how she viewed the world, and what even life and love meant to her? Is life even meaningful? I have many questions that often bombard my Mind-Cave.
+
+24. [The Day I Found Out My Life Was Hanging by a Thread](https://www.wired.com/story/the-day-i-found-out-my-life-was-hanging-by-a-thread/)
+> This is heart-touching. I've no words. I hope someday medical miracle will be seen where cancer is cured.
 
 ---
 ---
@@ -419,6 +424,8 @@ and so much I can't jolt down here.
 
 13. [Our Bookless Future](https://claremontreviewofbooks.com/our-bookless-future/)
 > "Literacy develops through practice—through labor that compels the development of revised brain functions. The more you read, the more your brain adapts. It is a “plastic” organ"
+
+14. [Building a Second Brain: An Overview](https://fortelabs.co/blog/basboverview/)
 
 ---
 ---
