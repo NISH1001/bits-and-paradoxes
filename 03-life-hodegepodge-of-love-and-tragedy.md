@@ -104,4 +104,6 @@ that synchronized with each other.
 24. [The Day I Found Out My Life Was Hanging by a Thread](https://www.wired.com/story/the-day-i-found-out-my-life-was-hanging-by-a-thread/)
 > This is heart-touching. I've no words. I hope someday medical miracle will be seen where cancer is cured.
 
+25. [Why’s This So Good? David Foster Wallace and the brilliant “Consider the Lobster”](https://niemanstoryboard.org/stories/whys-this-so-crazy-good-david-foster-wallace-and-consider-the-lobster/)
+
 ---

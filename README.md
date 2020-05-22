@@ -269,6 +269,8 @@ that synchronized with each other.
 24. [The Day I Found Out My Life Was Hanging by a Thread](https://www.wired.com/story/the-day-i-found-out-my-life-was-hanging-by-a-thread/)
 > This is heart-touching. I've no words. I hope someday medical miracle will be seen where cancer is cured.
 
+25. [Why’s This So Good? David Foster Wallace and the brilliant “Consider the Lobster”](https://niemanstoryboard.org/stories/whys-this-so-crazy-good-david-foster-wallace-and-consider-the-lobster/)
+
 ---
 ---
 ## Health
@@ -296,6 +298,9 @@ and so much I can't jolt down here.
 > The more neglected and solvable, the further extra effort will go.
 
 4. [The Most Important (and Literary?) Meal of the Day](https://www.nytimes.com/2020/05/06/books/breakfast-in-literature.html)
+
+5. [How Long Will a Vaccine Really Take?](https://www.nytimes.com/interactive/2020/04/30/opinion/coronavirus-covid-vaccine.html)
+> I know it will take sometime...
 
 ---
 ---

@@ -24,4 +24,7 @@ and so much I can't jolt down here.
 
 4. [The Most Important (and Literary?) Meal of the Day](https://www.nytimes.com/2020/05/06/books/breakfast-in-literature.html)
 
+5. [How Long Will a Vaccine Really Take?](https://www.nytimes.com/interactive/2020/04/30/opinion/coronavirus-covid-vaccine.html)
+> I know it will take sometime...
+
 ---
