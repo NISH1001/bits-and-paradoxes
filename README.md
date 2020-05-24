@@ -302,6 +302,9 @@ and so much I can't jolt down here.
 5. [How Long Will a Vaccine Really Take?](https://www.nytimes.com/interactive/2020/04/30/opinion/coronavirus-covid-vaccine.html)
 > I know it will take sometime...
 
+6. [The Effects on Cognition of Sleeping 4 Hours per Night for 12-14 Days: a Pre-Registered Self-Experiment](https://guzey.com/science/sleep/14-day-sleep-deprivation-self-experiment/)
+> This was a unique read for me. I guess it's more like reading a research paper than an article. I could barely understand the statistics (which I had studied in the B.E days). It's interesting to note that the author didn't find any degradation of cognitive skills due to a lack of "normal" sleep hours. The author used some techniques to measure his cognitive skills, mainly playing a video game, solving SAT problems, and [[Psychomotor Vigilance Task]] (a sustained-attention, reaction-timed task that measures the speed with which subjects respond to a visual stimulus). However, it might be the case that subtle negative effects will accumulate slowly, if not checked, to the point that it may degrade physical health too. The data collection technique by the author needs patience and a lot of self-awareness. That's fascinating equally.
+
 ---
 ---
 ## Music
