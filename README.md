@@ -271,6 +271,10 @@ that synchronized with each other.
 
 25. [Why’s This So Good? David Foster Wallace and the brilliant “Consider the Lobster”](https://niemanstoryboard.org/stories/whys-this-so-crazy-good-david-foster-wallace-and-consider-the-lobster/)
 
+26. [Cigarette! Exquisite fiend, ephemeral friend, how I miss you](https://psyche.co/ideas/cigarette-exquisite-fiend-ephemeral-friend-how-i-miss-you)
+> Not to philosophize the habit of smoking, but " Smoking is a pause, a space to breathe.".
+I wasn't a regular smoker (had started smoking just last year from once a week to few times a week). But I wasn't addicted becaus I could control myself. Plus there was weed.
+
 ---
 ---
 ## Health
@@ -434,6 +438,11 @@ and so much I can't jolt down here.
 > "Literacy develops through practice—through labor that compels the development of revised brain functions. The more you read, the more your brain adapts. It is a “plastic” organ"
 
 14. [Building a Second Brain: An Overview](https://fortelabs.co/blog/basboverview/)
+
+15. [Engines vs Power-Ups : Learning Skill with a Shelf life](https://alchemist.camp/learning-machine/engines-powerups)
+> try to focus on long-term skills (engine)  
+  
+> never hesitate to go for short-term ones whenever an opportunity arrives
 
 ---
 ---

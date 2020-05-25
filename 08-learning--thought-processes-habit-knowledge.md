@@ -46,4 +46,9 @@
 
 14. [Building a Second Brain: An Overview](https://fortelabs.co/blog/basboverview/)
 
+15. [Engines vs Power-Ups : Learning Skill with a Shelf life](https://alchemist.camp/learning-machine/engines-powerups)
+> try to focus on long-term skills (engine)  
+  
+> never hesitate to go for short-term ones whenever an opportunity arrives
+
 ---

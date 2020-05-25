@@ -106,4 +106,8 @@ that synchronized with each other.
 
 25. [Why’s This So Good? David Foster Wallace and the brilliant “Consider the Lobster”](https://niemanstoryboard.org/stories/whys-this-so-crazy-good-david-foster-wallace-and-consider-the-lobster/)
 
+26. [Cigarette! Exquisite fiend, ephemeral friend, how I miss you](https://psyche.co/ideas/cigarette-exquisite-fiend-ephemeral-friend-how-i-miss-you)
+> Not to philosophize the habit of smoking, but " Smoking is a pause, a space to breathe.".
+I wasn't a regular smoker (had started smoking just last year from once a week to few times a week). But I wasn't addicted becaus I could control myself. Plus there was weed.
+
 ---
