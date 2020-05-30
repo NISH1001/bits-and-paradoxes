@@ -51,4 +51,6 @@
   
 > never hesitate to go for short-term ones whenever an opportunity arrives
 
+16. [Infected By Ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
+
 ---

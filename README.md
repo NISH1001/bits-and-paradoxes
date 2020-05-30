@@ -311,6 +311,9 @@ and so much I can't jolt down here.
 
 7. [Caffeine: A vitamin-like nutrient, or adaptogen](http://raypeat.com/articles/articles/caffeine.shtml)
 
+8. [Becoming Addiction Free](https://www.stevepavlina.com/blog/2017/02/becoming-addiction-free/)
+> "How would you live if you couldn’t use social media? You’d probably have to develop a whole new set of skills, which could be an amazing personal growth challenge, one you might actually find deeply fulfilling if you tackled it."
+
 ---
 ---
 ## Music
@@ -445,6 +448,8 @@ and so much I can't jolt down here.
 > try to focus on long-term skills (engine)  
   
 > never hesitate to go for short-term ones whenever an opportunity arrives
+
+16. [Infected By Ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
 
 ---
 ---
