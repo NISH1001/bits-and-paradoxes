@@ -53,4 +53,9 @@
 
 16. [Infected By Ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
 
+17. [You’re probably using the wrong dictionary](http://jsomers.net/blog/dictionary)
+> I'm never going to see "dictionary" with same perspective again...
+
+> "There's an amazing thing that happens when you start using the right dictionary"
+
 ---

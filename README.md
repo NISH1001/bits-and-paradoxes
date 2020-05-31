@@ -161,6 +161,7 @@ and animals as a container/host for those genes.
 
 13. [Climbing the wrong hill](https://cdixon.org/2009/09/19/climbing-the-wrong-hill)
 
+14. [What is emergence, and why should we care about it?](https://axispraxis.wordpress.com/2020/05/27/what-is-emergence-and-why-should-we-care-about-it/)
 ---
 ---
 ## Life - A Hodgepodge of Love and Tragedy
@@ -450,6 +451,11 @@ and so much I can't jolt down here.
 > never hesitate to go for short-term ones whenever an opportunity arrives
 
 16. [Infected By Ideas](https://www.newstatesman.com/culture/books/2020/05/infected-ideas)
+
+17. [You’re probably using the wrong dictionary](http://jsomers.net/blog/dictionary)
+> I'm never going to see "dictionary" with same perspective again...
+
+> "There's an amazing thing that happens when you start using the right dictionary"
 
 ---
 ---
