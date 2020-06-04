@@ -58,4 +58,10 @@
 
 > "There's an amazing thing that happens when you start using the right dictionary"
 
+18. [10 tips for research and PhD](https://ruder.io/10-tips-for-research-and-a-phd/)
+> This is good. I might look back at this time and again.
+
+19. [PhD 101](https://www.cs.cmu.edu/~vcirik/blog/2019/phd-101/)
+
 ---
+

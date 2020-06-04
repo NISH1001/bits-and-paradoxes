@@ -61,4 +61,7 @@ and animals as a container/host for those genes.
 13. [Climbing the wrong hill](https://cdixon.org/2009/09/19/climbing-the-wrong-hill)
 
 14. [What is emergence, and why should we care about it?](https://axispraxis.wordpress.com/2020/05/27/what-is-emergence-and-why-should-we-care-about-it/)
+
+15. [The love that lays the swale in rows](http://www.roughtype.com/?p=8783)
+> We share our tools and tools shape us.
 ---

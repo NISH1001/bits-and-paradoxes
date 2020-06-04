@@ -110,4 +110,7 @@ that synchronized with each other.
 > Not to philosophize the habit of smoking, but " Smoking is a pause, a space to breathe.".
 I wasn't a regular smoker (had started smoking just last year from once a week to few times a week). But I wasn't addicted becaus I could control myself. Plus there was weed.
 
+27. [I sell onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
+> Inspiring...
+
 ---

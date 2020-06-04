@@ -162,6 +162,9 @@ and animals as a container/host for those genes.
 13. [Climbing the wrong hill](https://cdixon.org/2009/09/19/climbing-the-wrong-hill)
 
 14. [What is emergence, and why should we care about it?](https://axispraxis.wordpress.com/2020/05/27/what-is-emergence-and-why-should-we-care-about-it/)
+
+15. [The love that lays the swale in rows](http://www.roughtype.com/?p=8783)
+> We share our tools and tools shape us.
 ---
 ---
 ## Life - A Hodgepodge of Love and Tragedy
@@ -275,6 +278,9 @@ that synchronized with each other.
 26. [Cigarette! Exquisite fiend, ephemeral friend, how I miss you](https://psyche.co/ideas/cigarette-exquisite-fiend-ephemeral-friend-how-i-miss-you)
 > Not to philosophize the habit of smoking, but " Smoking is a pause, a space to breathe.".
 I wasn't a regular smoker (had started smoking just last year from once a week to few times a week). But I wasn't addicted becaus I could control myself. Plus there was weed.
+
+27. [I sell onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
+> Inspiring...
 
 ---
 ---
@@ -457,7 +463,13 @@ and so much I can't jolt down here.
 
 > "There's an amazing thing that happens when you start using the right dictionary"
 
+18. [10 tips for research and PhD](https://ruder.io/10-tips-for-research-and-a-phd/)
+> This is good. I might look back at this time and again.
+
+19. [PhD 101](https://www.cs.cmu.edu/~vcirik/blog/2019/phd-101/)
+
 ---
+
 ---
 # Story
 
