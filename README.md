@@ -282,6 +282,9 @@ I wasn't a regular smoker (had started smoking just last year from once a week t
 27. [I sell onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/)
 > Inspiring...
 
+28. [On Old Photos of Oneself](https://www.theschooloflife.com/thebookoflife/on-old-photos-of-oneself/)
+> This flow of words moved me like [[The School Of Life]] does always. It's like watching a video from an old camcorder; you're just there imagining what it was like through the passage of time with love, sadness, happiness, fear, miseries; how we flowed. A reflection of one's self, of the world within, of the world that surrounds us.
+
 ---
 ---
 ## Health
