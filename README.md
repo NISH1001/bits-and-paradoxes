@@ -285,6 +285,12 @@ I wasn't a regular smoker (had started smoking just last year from once a week t
 28. [On Old Photos of Oneself](https://www.theschooloflife.com/thebookoflife/on-old-photos-of-oneself/)
 > This flow of words moved me like [[The School Of Life]] does always. It's like watching a video from an old camcorder; you're just there imagining what it was like through the passage of time with love, sadness, happiness, fear, miseries; how we flowed. A reflection of one's self, of the world within, of the world that surrounds us.
 
+29. [Reflections On the Color of My Skin - Neil deGrasse Tyson](https://www.reddit.com/r/Longreads/comments/gwth4o/reflections_on_the_color_of_my_skin_neil_degrasse/)
+
+> Heart-wrenching
+
+30. [The art of being alone](https://fs.blog/2020/06/being-alone/)
+
 ---
 ---
 ## Health
@@ -470,6 +476,13 @@ and so much I can't jolt down here.
 > This is good. I might look back at this time and again.
 
 19. [PhD 101](https://www.cs.cmu.edu/~vcirik/blog/2019/phd-101/)
+
+20. [Writing, Briefly](http://www.paulgraham.com/writing44.html)
+
+21. [Expiring vs Long-Term Knowledge](https://www.collaborativefund.com/blog/expiring-vs-lt-knowledge/)
+> "How much of what you read today will you still care about a year from now?"
+
+22. [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
 
 ---
 

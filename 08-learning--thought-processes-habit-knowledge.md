@@ -63,5 +63,12 @@
 
 19. [PhD 101](https://www.cs.cmu.edu/~vcirik/blog/2019/phd-101/)
 
+20. [Writing, Briefly](http://www.paulgraham.com/writing44.html)
+
+21. [Expiring vs Long-Term Knowledge](https://www.collaborativefund.com/blog/expiring-vs-lt-knowledge/)
+> "How much of what you read today will you still care about a year from now?"
+
+22. [What to write down when you’re reading to learn](https://acesounderglass.com/2020/06/10/what-to-write-down-when-youre-reading-to-learn/)
+
 ---
 
